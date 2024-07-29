@@ -25,7 +25,7 @@ docker exec -it fb bash
 apt-get update
 apt-get install -yq build-essential make libsqlite3-dev sqlite3
 
-cd facebooc
+cd /opt/facebooc
 make all
 
 # Check for 'facebooc' binary within the bin folder
