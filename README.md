@@ -15,6 +15,7 @@ My YouTube Channel for reference : https://www.youtube.com/channel/UC-Hv6dZTH_9r
 
 
 K8s Ports to be opened: <br>
+K8s Documentation : https://kubernetes.io/docs/reference/networking/ports-and-protocols/#control-plane <br>
 
 The following TCP ports are used by Kubernetes control plane components: <br>
 
