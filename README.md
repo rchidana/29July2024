@@ -13,3 +13,18 @@ K8s Playground : https://killercoda.com/login <br>
 
 My YouTube Channel for reference : https://www.youtube.com/channel/UC-Hv6dZTH_9rj_nezOSa9Iw <br>
 
+
+K8s Ports to be opened: <br>
+
+The following TCP ports are used by Kubernetes control plane components: <br>
+
+Port 6443 – Kubernetes API server <br>
+Ports 2379-2380 – etcd server client API <br>
+Port 10250 – Kubelet API <br>
+Port 10259 – kube-scheduler <br>
+Port 10257 – kube-controller manager <br>
+The following TCP ports are used by Kubernetes nodes: <br>
+
+Port 10250 – Kubelet API <br>
+Ports 30000-32767 – NodePort Services <br>
+
