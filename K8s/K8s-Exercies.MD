@@ -4,7 +4,7 @@ Pod: <br>
 1. My-Pod : https://github.com/rchidana/Kubernetes/blob/master/Pod/my-pod.yaml <br>
 1. Pod with label : https://github.com/rchidana/Kubernetes/blob/master/Example2/mynodeapp-manual-label.yaml <br>
 1. Pod with node selector : https://github.com/rchidana/Kubernetes/blob/master/Example2/mynodeapp-manual-node-selector.yaml <br>
-1. Node anti-affinity : https://github.com/rchidana/Kubernetes/tree/master/Example2/affinity <br>
+1. Pod anti-affinity : https://github.com/rchidana/Kubernetes/tree/master/Example2/affinity <br>
 1. Pod with toleration : https://github.com/rchidana/Kubernetes/blob/master/Example2/taints/mynodeapp-with-tolerations.yaml <br>
 
 Probes:<br>
